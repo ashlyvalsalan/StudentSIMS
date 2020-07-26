@@ -1,4 +1,10 @@
 # StudentSIMS
+Explanation:
+Swagger is an application which implements basic CRUD request (GET, POST,PUT,DELETE) for the tables students and address. Moreover , api methods are created for adding new address for a student using the studentID and for updating the address.
+ Firstly, a Database is created in Azure and  started coding with an API asp.net Core Web Application.Migration through the package manage console after creating the models will generate the tables in the azure database. The basic CRUD request are created by using the scaffolding. Testing done by passing values to different properties.
+ 
+ 
+ 
 **Url:** https://localhost:5001
 **Database:**
 ![db](https://user-images.githubusercontent.com/64385395/88472060-79c6b900-cf63-11ea-9ec2-15b0ea9aec92.png)
