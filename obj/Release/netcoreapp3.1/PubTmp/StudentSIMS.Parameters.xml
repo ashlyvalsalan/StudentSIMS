@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="SchoolSIMS-vini" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/vinivarghese/Projects/StudentSIMS/StudentSIMS/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
+  <parameter name="IIS Web Application Name" description="" value="StudentSIMS-Ashly" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/ashlyvalsalan/Downloads/StudentSIMS\ 2/StudentSIMS/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
   </parameter>
 </parameters>
