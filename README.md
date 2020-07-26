@@ -7,14 +7,23 @@ Swagger is an application which implements basic CRUD request (GET, POST,PUT,DEL
  
 **Url:** 
 https://studentsims-ashly.azurewebsites.net/api/Address
+
 https://studentsims-ashly.azurewebsites.net/api/Address
+
 https://studentsims-ashly.azurewebsites.net/api/Address/2
+
 https://studentsims-ashly.azurewebsites.net/api/Address/4
+
 https://studentsims-ashly.azurewebsites.net/api/Address/2
+
 https://studentsims-ashly.azurewebsites.net/api/Students
+
 https://studentsims-ashly.azurewebsites.net/api/Students
+
 https://studentsims-ashly.azurewebsites.net/api/Students/2
+
 https://studentsims-ashly.azurewebsites.net/api/Students/2
+
 https://studentsims-ashly.azurewebsites.net/api/Students/3
 
 **Database:**
@@ -52,4 +61,6 @@ Delete/api/address/{id}
 ![delete:api:students:{id}](https://user-images.githubusercontent.com/64385395/88472207-8dbeea80-cf64-11ea-91f2-b38906dd78f0.png)
 
 
-
+put/api/address/{id}
+![Screen Shot 2020-07-26 at 10 10 23 PM](https://user-images.githubusercontent.com/64385395/88476565-66304800-cf8d-11ea-9be1-d5baad4c7733.png)
+![Screen Shot 2020-07-26 at 10 10 57 PM](https://user-images.githubusercontent.com/64385395/88476566-69c3cf00-cf8d-11ea-8b44-86d774bd7af2.png)
